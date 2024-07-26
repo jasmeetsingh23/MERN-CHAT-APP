@@ -61,19 +61,19 @@ Start the Client
 ![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/login.PNG)
 ![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/jasmeet23/MERN-CHAT-APP/blob/main/screenshots/profile.PNG)
 ## Made By
 
 - [@Jasmeet](https://github.com/jasmeetsingh23)
