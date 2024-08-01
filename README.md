@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://mern-chat-app-k9zp.onrender.com/)
+[https://jasmeetsingh-chatapp.onrender.com//](https://jasmeetsingh-chatapp.onrender.com//)
 
 ![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
